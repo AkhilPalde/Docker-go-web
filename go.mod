@@ -1,3 +1,3 @@
-module github.com/Fullscript/go-web-server
+module github.com/AkhilPalde/Docker-go-web
 
 go 1.16
